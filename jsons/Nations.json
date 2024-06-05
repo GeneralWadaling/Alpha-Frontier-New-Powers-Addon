@@ -433,7 +433,7 @@
 		"uniques": [
 			"Great General provides double combat bonus",
 			"[-30]% Unhappiness from [Population] [in annexed cities]",
-			"[+15]% Strength <when above [55] HP>",
+			"[+15]% Strength <when above [55] HP> <for [Infantry] units>",
 			"Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
 		],
 		"cities": [
